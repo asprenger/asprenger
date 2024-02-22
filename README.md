@@ -1,5 +1,5 @@
 ### Hi there 👋
-----
+--
 I'm a Founder and ML Engineer specialized in machine learning, MLOps, distributed computing and embedded AI. I build machine learning solutions and data products from first prototype to production. I'm working with large language models in commercial projects as well as with embedded AI in a research project. Among other industries I have worked in FX derivative trading, programmatic advertising, e-commerce and agriculture.
 
 #### What I'm currently working on
